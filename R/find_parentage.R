@@ -412,8 +412,7 @@ find_parentage <- function(genotypes_file, parents_file, progeny_file,
         ggplot2::geom_vline(xintercept = error_threshold,
                             linetype = "dashed", color = "black", linewidth = 1) +
         ggplot2::scale_x_continuous(breaks = seq(0, 100, by = 5)) +
-        ggplot2::scale_y_continuous(breaks = seq(0, 10000, by = 5)) +
-        ggplot2::scale_fill_manual(
+        ggplot2::scale_y_continuous() +
           values = c("pass"        = "#339900",
                      "high_error"  = "#cc3333",
                      "low_markers" = "#F1C40F",
