@@ -6,7 +6,7 @@
 - Renamed package to BIGpopA and made repo public
 
 
-# popR 0.1.0
+# popR 1.0.1
 - Initial release of `BIGpopA` as a standalone package.
 - `BIGpopA` contains pedigree validation and breed/line composition functions
   previously found in [BIGr](https://github.com/Breeding-Insight/BIGr),
