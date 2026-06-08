@@ -1,4 +1,4 @@
 library(testthat)
-library(BIBpopA)
+library(BIGpopA)
 
-test_check("BIBpopA")
+test_check("BIGpopA")
