@@ -26,7 +26,7 @@ withr::with_options(list(repos = c(CRAN = "https://cloud.r-project.org/")),
 # Check content
 # install.packages('checkhelper', repos = 'https://thinkr-open.r-universe.dev')
 # All functions must have either `@noRd` or an `@export`.
-checkhelper::find_missing_tags()
+checkhelper::audit_tags()
 
 # Check that you let the house clean after the check, examples and tests
 # If you used parallel testing, you may need to avoid it for the next check with `Config/testthat/parallel: false` in DESCRIPTION

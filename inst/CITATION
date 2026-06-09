@@ -10,8 +10,7 @@ bibentry(
                     role=c('aut')),
              person('University', "of Florida",
                     role=c('cph'),
-                    comment = "Breeding Insight"))
-  ),
+                    comment = "Breeding Insight")),
   year = "2026",
   note = "R package version 1.0.2",
   url  = "https://github.com/Breeding-Insight/BIGpopA"

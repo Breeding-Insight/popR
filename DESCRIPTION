@@ -31,9 +31,9 @@ Imports:
     dplyr,
     janitor,
     quadprog,
-    data.table
+    data.table,
+    ggplot2
 Suggests:
-    ggplot2,
     covr,
     knitr (>= 1.10),
     rmarkdown,
