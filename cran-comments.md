@@ -5,4 +5,4 @@
 * This is a new release.
 
 ## This is a resubmission
-* Initial submission was rejected because of /dev in the repository.
+* Initial submission was rejected because of LICENSE file in the repository.
