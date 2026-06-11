@@ -8,7 +8,10 @@
 <!-- [![codecov](https://app.codecov.io/gh/Breeding-Insight/BIGpopA/graph/badge.svg?token=PJUZMRN1NF)](https://app.codecov.io/gh/Breeding-Insight/BIGpopA) -->
 <!-- badges: end -->
 
-  <img width="250" height="250" alt="BIGpopa_logo" src="https://github.com/user-attachments/assets/6f621288-f131-4ca9-ba8a-451bdf8511df" />
+<div align="center">
+  <img width="250" height="250" alt="BIGpopa_logo" src="https://github.com/user-attachments/assets/3560cb73-6939-4af6-ab41-045b8a1598c3" />
+</div>
+
 
 # Breeding Insight Genomics population Analyses
 ### Pedigree Validation and Breed/Line Composition Estimation for Diploid and Polyploid Species
